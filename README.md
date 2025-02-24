@@ -1,5 +1,5 @@
 # CODSOFT
-This repository contains three classic machine learning projects that showcase different aspects of data analysis, preprocessing, model building, and evaluation.
+This contains three classic machine learning projects that showcase different aspects of data analysis, preprocessing, model building, and evaluation.
 ## Titanic Survival Prediction
 
 The Titanic Survival Prediction project is a classic machine learning exercise aimed at predicting whether a passenger survived the Titanic disaster. This project uses a dataset containing individual passenger details, including features like age, gender, ticket class, fare, cabin, and survival status. The project involves:
