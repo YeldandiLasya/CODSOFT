@@ -1,6 +1,6 @@
 # CODSOFT
 This contain three classic machine learning projects that showcase different aspects of data analysis, preprocessing, model building, and evaluation.
-## Titanic Survival Prediction
+## TASK-1:Titanic Survival Prediction
 
 The Titanic Survival Prediction project is a classic machine learning exercise aimed at predicting whether a passenger survived the Titanic disaster. This project uses a dataset containing individual passenger details, including features like age, gender, ticket class, fare, cabin, and survival status. The project involves:
 
@@ -18,7 +18,7 @@ The Titanic Survival Prediction project is a classic machine learning exercise a
 
 This project not only provides insights into one of history’s most infamous events but also serves as a foundational introduction to data preprocessing, feature engineering, and classification techniques in machine learning.
 
-## Iris Flower Classification
+## TASK-3:Iris Flower Classification
 
 The Iris Flower Classification project is a staple in the field of machine learning, designed to classify iris flowers into three species: setosa, versicolor, and virginica. The dataset is small, well-balanced, and consists of 150 samples with four features: sepal length, sepal width, petal length, and petal width. Key aspects of this project include:
 
@@ -36,7 +36,7 @@ The Iris Flower Classification project is a staple in the field of machine learn
 
 The Iris Flower Classification project is widely used for educational purposes, offering a clear, approachable introduction to the concepts of supervised learning and classification in machine learning.
 
-## Credit Card Fraud Detection
+## TASK-5:Credit Card Fraud Detection
 
 The Credit Card Fraud Detection project addresses a real-world challenge of identifying fraudulent transactions within a highly imbalanced dataset. The dataset typically includes transaction details such as time, amount, and various anonymized features derived through techniques like PCA. Important elements of this project include:
 
